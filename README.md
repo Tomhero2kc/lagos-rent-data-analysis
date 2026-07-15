@@ -1,2 +1,2 @@
 # lagos-rent-data-analysis
-A beginner data analysis project exploring Lagos rent data using Python, Pandas, charts and SQL.
+A small data analysis project where I explore Lagos rent prices using Python, Pandas, simple charts and SQL.
